@@ -15,7 +15,7 @@ Browser client-side non-blocking notifications, popup boxes and dialog redesigne
 # About
 This APEX plugin is built on top of Notiflix; a library for client-side non-blocking notifications, popup boxes, loading indicators, and more to that makes your web projects much better.
 
-See the plugin in action here. [Demo Page](https://apex.oracle.com/pls/apex/f?p=43322:2)
+See the plugin in action here. [Demo Page](https://apex.oracle.com/pls/apex/artabit/r/notiflix-apex-plugin/home)
 
 # Plugin Version
    Version 1.0
