@@ -1,0 +1,36 @@
+{
+  "name" : "APEX Notiflix",
+  "version" : "1.0",
+  "description" : "Browser client-side non-blocking notifications, popup boxes and dialog redesigned.",
+  "keywords" : ["notifications", "popup boxes", "alert", "apex"],
+  "homepage" : "https://github.com/iranapex/Notiflix",
+  "bugs" : {
+    "url" : "https://github.com/iranapex/Notiflix/issues",
+    "email" : "ahmadi@iranapex.ir"
+  },
+  "license" : "MIT",
+  "commercial" : "No",
+  "author" : {
+    "name" : "Mahdi Ahmadi",
+    "email" : "ahmadi@iranapex.ir",
+    "url" : "https://iranapex.ir/"
+    "twitter" : "mahdi_ahmady"
+    "donationUrl" : ""
+  },
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/iranapex/Notiflix.git"
+  },
+  "oracle" : {
+    "versions" : ["11.2.0.1", "12.1.0.1", "12.2.0.1", "18.4.0.0", "19.0.0.0.0"],
+    "apex" : {
+      "versions" : ["5.1.3", "18.1.0.00.45", "18.2.0.00.12", "19.1.0.00.15", "19.2.0.00.18", "20.1.0.00.13", "20.2.0.00.20"],
+      "plugin" : {
+        "internalName" : "IRANAPEX.NOTIFILIX",
+        "type" : "dynamic action",
+        "demo" : "https://apex.oracle.com/pls/apex/artabit/r/notiflix-apex-plugin/home",
+        "previewImage" : "https://github.com/iranapex/Notiflix/raw/main/notiflix-min.gif?raw=true"
+      }
+    }
+  }
+}
